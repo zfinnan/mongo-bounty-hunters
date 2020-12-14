@@ -1,9 +1,4 @@
 # Mongo Bounty Hunters
-Title: Intergalactic Bounty Hunter Database<br>
-Type: Deliverable<br>
-Duration: 1-2 hours <br>
-Creator: [Karolin Rafalski](https://generalassemb.ly/instructors/karolina-rafalski/11367) <br>
-Adapted From: [WDI Remote - Mongo Lab](https://git.generalassemb.ly/Web-Development-Immersive-Remote/WDIR-Stan-Lee/blob/master/unit_2/w06d02/student_labs/morning.md) <br>
 
 ## Intergalactic Bounty Hunter Database
 
@@ -14,15 +9,6 @@ You run into a shadowy stranger, who asks you three times 'Really? Any job?' and
 The shadowy stranger greets you and says 'Welcome to your new job! You are now our dev who will be building an intergalactic bounty hunter database for us!'
 
 You look around, notice some high end coffee and tea machines, an air hockey table, nap rooms and floor to ceiling windows with a view of outer space. The shadowy stranger takes you to your desk which has a fancy sit-to stand adjustable hight desk with a swing bar, two big monitors, and Herman Miller chair. You say to yourself 'Not bad! Not bad at all!'
-
-## Getting Started
-
-* **Fork** and **Clone** this repository!
-* Do the assignment!
-* To turn this assignment in:
-    * Record your terminal command history inside the `answers.txt` file!
-    * Push to your fork of the repository
-    * Make a **Pull Request** against the base repository
 
 ## Set up
 
@@ -164,17 +150,10 @@ Check out the [Intermediate Mongo](https://gawdiseattle.gitbook.io/wdi/04-databa
 - Try giving a `lastSeen` field to Han Solo, with the property `yesterday` (we haven't set his yet)
 - Try giving all bounties that are not Han Solo a new field of `lastSeen` - with a value of `last week`
 
-## Turn It In!
+## Victory lap!
 
-Put your terminal output (let's say the last 50 lines or so, not everything you ever did!) into the file in this directory called `answers.txt`. Commit and push your changes, then make a pull request against the base fork.
+Put your terminal output (let's say the last 50 lines or so, not everything you ever did!) into the file in this directory called `answers.txt`.
 
 Get your Mongo shell history with the following command: `tail -50 ~/.dbshell`
 
-Did you have any questions or comments about this deliverable? Please add it to the text of your pull request!
-
 ### That's it! You're all done!
-
-Ahh... time to relax!
-
-![Relax](https://media.giphy.com/media/hR7yR2AMVxv8c/giphy.gif)
-
